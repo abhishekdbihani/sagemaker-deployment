@@ -1,6 +1,6 @@
 # Movie Sentiment Analysis using AWS SageMaker
 
-This project creates a simple web app which interacts with a deployed recurrent neural network (RNN) performing sentiment analysis on movie reviews. The LSTM model was constructed in PyTorch on AWS SageMaker and deployed using AWS Lambda. 
+This [project](https://github.com/abhishekdbihani/sagemaker-deployment/blob/master/Project/SageMaker%20Project%20Final.ipynb) creates a simple web app which interacts with a deployed recurrent neural network (RNN) performing sentiment analysis on movie reviews. The LSTM model was constructed in PyTorch on AWS SageMaker and deployed using AWS Lambda. 
 
 An example of the model in action is shown in the below figure.     
 
